@@ -17,3 +17,9 @@ reject datasets that deviate from expected structure, and archive canonical raw 
 transformation. Clean data does not ensure profitability. It ensures that performance metrics reflect
 market behavior rather than upstream distortion. The cost of a single bad tick is not measured in cents.
 It is measured in structural credibility and long-term trust.
+
+
+---
+
+Published by Dark Tower Data  
+https://darktowerdata.com
